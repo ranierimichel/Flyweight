@@ -1,12 +1,10 @@
 # Flyweight
 # Summary
-A proxy has the same interface as the underlying object;
+Store common data externally;
 
-To create a proxy, simply replicate the existing interface of an object;
+Define the idea of 'ranges' on homogeneous collections and store data related to those ranges;
 
-Add relevant functionality to the redefined member functions;
-
-Different proxies (communication, logging, caching etc.) have completely different behaviors.
+.NET string interning is the Flyweight pattern.
 
 
 # Course by: Dmitri Nesteruk
