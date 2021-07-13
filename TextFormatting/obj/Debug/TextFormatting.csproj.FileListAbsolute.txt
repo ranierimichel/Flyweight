@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\TextFormatting\bin\Debug\TextFormatting.exe.config
+C:\Users\Ranieri\Desktop\TextFormatting\bin\Debug\TextFormatting.exe
+C:\Users\Ranieri\Desktop\TextFormatting\bin\Debug\TextFormatting.pdb
+C:\Users\Ranieri\Desktop\TextFormatting\obj\Debug\TextFormatting.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\TextFormatting\obj\Debug\TextFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\TextFormatting\obj\Debug\TextFormatting.exe
+C:\Users\Ranieri\Desktop\TextFormatting\obj\Debug\TextFormatting.pdb

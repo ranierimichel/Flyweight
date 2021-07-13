@@ -1,0 +1,12 @@
+C:\Users\Ranieri\Desktop\RepeatingUserNames\bin\Debug\RepeatingUserNames.exe.config
+C:\Users\Ranieri\Desktop\RepeatingUserNames\bin\Debug\RepeatingUserNames.exe
+C:\Users\Ranieri\Desktop\RepeatingUserNames\bin\Debug\RepeatingUserNames.pdb
+C:\Users\Ranieri\Desktop\RepeatingUserNames\bin\Debug\dotMemory.Unit.dll
+C:\Users\Ranieri\Desktop\RepeatingUserNames\bin\Debug\nunit.framework.dll
+C:\Users\Ranieri\Desktop\RepeatingUserNames\bin\Debug\dotMemory.Unit.xml
+C:\Users\Ranieri\Desktop\RepeatingUserNames\bin\Debug\nunit.framework.xml
+C:\Users\Ranieri\Desktop\RepeatingUserNames\obj\Debug\RepeatingUserNames.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\RepeatingUserNames\obj\Debug\RepeatingUserNames.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\RepeatingUserNames\obj\Debug\RepeatingUserNames.csproj.CopyComplete
+C:\Users\Ranieri\Desktop\RepeatingUserNames\obj\Debug\RepeatingUserNames.exe
+C:\Users\Ranieri\Desktop\RepeatingUserNames\obj\Debug\RepeatingUserNames.pdb

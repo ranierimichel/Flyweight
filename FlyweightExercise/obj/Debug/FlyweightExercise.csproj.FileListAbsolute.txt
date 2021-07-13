@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\FlyweightExercise\bin\Debug\FlyweightExercise.exe.config
+C:\Users\Ranieri\Desktop\FlyweightExercise\bin\Debug\FlyweightExercise.exe
+C:\Users\Ranieri\Desktop\FlyweightExercise\bin\Debug\FlyweightExercise.pdb
+C:\Users\Ranieri\Desktop\FlyweightExercise\obj\Debug\FlyweightExercise.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\FlyweightExercise\obj\Debug\FlyweightExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\FlyweightExercise\obj\Debug\FlyweightExercise.exe
+C:\Users\Ranieri\Desktop\FlyweightExercise\obj\Debug\FlyweightExercise.pdb
